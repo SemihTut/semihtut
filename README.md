@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
 <h3 align="center">Passionate about Extreme sports and Automation</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Finnish**
 
 - 👨‍💻 All of my projects are available at [https://www.semihtut.com/](https://www.semihtut.com/)
 
