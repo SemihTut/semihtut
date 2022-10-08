@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Semih</h1>
-<h3 align="center">Passionate about Extreme sports and Automation</h3>
+<h3 align="center">Passionate about Extreme sports and Cyber Security and Incident Response</h3>
 
 - 🌱 I’m currently learning **Finnish**
 
