@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.semihtut.com/](https://www.semihtut.com/)
 
-- 💬 Ask me about **Cucumber**
+- 💬 Ask me about **Cucumber and Threat Analysis**
 
 - 📫 How to reach me **semih.tut.sdet@gmail.com**
 
